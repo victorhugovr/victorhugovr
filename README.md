@@ -20,4 +20,4 @@ ____
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorhugovr&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=victorhugovr)
