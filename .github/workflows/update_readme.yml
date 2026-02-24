@@ -1,22 +1,19 @@
-name: Actualizar Actividad Reciente
+name: Update README
 
 on:
-  schedule: # Se ejecuta cada 4 horas
-    - cron: '0 */4 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update Profile README
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4.2.2
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          # LIMIT_TO: 5 # Opcional: Cuántos eventos mostrar (por defecto 5)
-          # MAX_LINES: 10 # Opcional
-          COMMIT_NAME: 'github-actions[bot]'
-          COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
           
