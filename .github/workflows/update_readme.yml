@@ -19,3 +19,4 @@ jobs:
         with:
           COMMIT_NAME: 'github-actions[bot]'
           COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
+          FILTER_EVENTS: PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
