@@ -9,8 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
@@ -21,4 +19,3 @@ jobs:
           # MAX_LINES: 10 # Opcional
           COMMIT_NAME: 'github-actions[bot]'
           COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
-          FILTER_EVENTS: 'PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent'
