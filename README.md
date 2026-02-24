@@ -16,6 +16,14 @@ ____
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+\### :zap: Actividad reciente
+
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
