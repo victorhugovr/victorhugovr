@@ -19,5 +19,5 @@ ____
 ### Actividad reciente
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=victorhugovr)
+### Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=victorhugovr&theme=dark)
