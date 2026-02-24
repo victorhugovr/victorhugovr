@@ -15,9 +15,12 @@ ____
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+____
 
 ### Actividad reciente
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+____
+
 ### Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=victorhugovr&background=161b22&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
