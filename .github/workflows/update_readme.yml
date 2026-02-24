@@ -1,12 +1,8 @@
 name: Actualizar Actividad Reciente
 on:
-  schedule:
+  schedule: # Se ejecuta cada 4 horas
     - cron: '0 */4 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,6 +13,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          # LIMIT_TO: 5 # Opcional: Cuántos eventos mostrar (por defecto 5)
+          # MAX_LINES: 10 # Opcional
           COMMIT_NAME: 'github-actions[bot]'
           COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
-          FILTER_EVENTS: PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
