@@ -20,4 +20,4 @@ ____
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 ### Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=victorhugovr&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=victorhugovr&background=161b22&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
