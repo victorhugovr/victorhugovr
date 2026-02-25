@@ -11,8 +11,8 @@ ____
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/victorhugovr/miCuartoRepo/issues/1) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)
-2. ❗ Opened issue [#1](https://github.com/victorhugovr/miCuartoRepo/issues/1) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)
+1. 🎉 Merged PR [#2](https://github.com/victorhugovr/miCuartoRepo/pull/2) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)
+2. 💪 Opened PR [#2](https://github.com/victorhugovr/miCuartoRepo/pull/2) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)
 <!--END_SECTION:activity-->
 ____
 
