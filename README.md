@@ -11,8 +11,8 @@ ____
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/victorhugovr/miCuartoRepo/pull/2) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)
-2. 💪 Opened PR [#2](https://github.com/victorhugovr/miCuartoRepo/pull/2) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/victorhugovr/tercerRepo/releases/tag/v0.1.0) in [victorhugovr/tercerRepo](https://github.com/victorhugovr/tercerRepo)
+2. 🎉 Merged PR [#3](https://github.com/victorhugovr/miCuartoRepo/pull/3) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)
 <!--END_SECTION:activity-->
 ____
 
