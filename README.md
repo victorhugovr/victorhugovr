@@ -7,14 +7,14 @@ Tech Stack
 ____
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-____
+<!--____
 
-<!--### Recent Activity-->
+### Recent Activity-->
 <!--START_SECTION:activity-->
 <!--1. 🚀 Published release [v0.1.0](https://github.com/victorhugovr/tercerRepo/releases/tag/v0.1.0) in [victorhugovr/tercerRepo](https://github.com/victorhugovr/tercerRepo)
 2. 🎉 Merged PR [#3](https://github.com/victorhugovr/miCuartoRepo/pull/3) in [victorhugovr/miCuartoRepo](https://github.com/victorhugovr/miCuartoRepo)-->
 <!--END_SECTION:activity-->
-____
+<!--____
 
-<!-- ### Stats
+### Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=victorhugovr&background=161b22&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff) -->
